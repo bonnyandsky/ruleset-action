@@ -153,6 +153,13 @@
       },
       {
         "rule_set":[
+          "geosite-custom_direct"
+        ],
+        "action":"route",
+        "outbound":"Direct-Out"
+      },
+      {
+        "rule_set":[
           "process-filter-communicationApp@amos"
         ],
         "action":"route",
@@ -215,6 +222,13 @@
         "type":"remote",
         "format":"binary",
         "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-category-direct.srs",
+        "download_detour":"VPN"
+      },
+      {
+        "tag":"geosite-custom_direct",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-custom_direct.srs",
         "download_detour":"VPN"
       },
       {
@@ -299,6 +313,13 @@
         "type":"remote",
         "format":"binary",
         "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-category-vpn@!cn.srs",
+        "download_detour":"VPN"
+      },
+      {
+        "tag":"geosite-custom_proxy",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-custom_proxy.srs",
         "download_detour":"VPN"
       },
       {

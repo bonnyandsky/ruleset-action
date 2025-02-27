@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "sing-box.sagernet.org"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "wikipedia.org",
+                "githubusercontent.com",
+                "metacubex.one",
+                "qichiyu.com"
+            ]
+        }
+    ]
+}

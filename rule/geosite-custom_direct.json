@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "rousi.zip",
+                "cinefiles.info",
+                "audiences.me",
+                "hdhome.org",
+                "ptcafe.club",
+                "btshcool.club",
+                "pttime.org",
+                "m-team.cc",
+                "springsunday.net",
+                "sjtu.edu.cn"
+            ]
+        }
+    ]
+}
