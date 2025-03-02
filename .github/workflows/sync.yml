@@ -68,3 +68,9 @@ jobs:
           git commit -m "Update rules"  # 提交更改
           git push  # 推送更改到远程仓库
         fi
+
+    - name: Delete workflow runs
+      uses: GitRML/delete-workflow-runs@main
+      with:
+        retain_days: 2
+        keep_minimum_runs: 2
