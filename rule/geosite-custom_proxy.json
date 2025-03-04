@@ -8,10 +8,10 @@
         },
         {
             "domain_suffix": [
-                "wikipedia.org",
-                "qichiyu.com",
                 "githubusercontent.com",
-                "metacubex.one"
+                "metacubex.one",
+                "qichiyu.com",
+                "wikipedia.org"
             ]
         }
     ]
