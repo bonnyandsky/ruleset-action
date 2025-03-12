@@ -225,6 +225,13 @@
         "download_detour":"VPN"
       },
       {
+        "tag":"geosite-AppStore",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-AppStore.srs",
+        "download_detour":"VPN"
+      },
+      {
         "tag":"geosite-custom_direct",
         "type":"remote",
         "format":"binary",
