@@ -365,6 +365,13 @@
         "download_detour":"VPN"
       },
       {
+        "tag":"geosite-AppleID",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-AppleID.srs",
+        "download_detour":"VPN"
+      },
+      {
         "tag":"geoip-category-game",
         "type":"remote",
         "format":"binary",
