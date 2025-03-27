@@ -4,23 +4,23 @@
         {
             "process_name": [
                 "BitComet",
-                "WeChat",
-                "幕布 Helper",
-                "115Browser",
-                "vidhub",
+                "WeChatAppEx Helper",
                 "cloudd",
-                "infuse",
-                "TencentMeeting",
                 "iCloudDrive.exe",
-                "Eudb_en_free",
-                "115Browser Helper",
-                "fdm.exe",
-                "qbittorrent",
-                "wegame.exe",
-                "Music",
                 "App Store",
+                "wegame.exe",
+                "115Browser Helper",
+                "vidhub",
+                "115Browser",
+                "幕布 Helper",
                 "QQ",
-                "WeChatAppEx Helper"
+                "infuse",
+                "fdm.exe",
+                "TencentMeeting",
+                "Eudb_en_free",
+                "WeChat",
+                "Music",
+                "qbittorrent"
             ]
         }
     ]
