@@ -4,24 +4,24 @@
         {
             "process_name": [
                 "BitComet",
-                "115Browser Helper",
-                "fdm.exe",
-                "QQ",
-                "115Browser",
                 "TencentMeeting",
-                "幕布 Helper",
-                "iCloudDrive.exe",
-                "Music",
-                "qbittorrent",
-                "infuse",
-                "vidhub",
-                "cloudd",
-                "wegame.exe",
-                "App Store",
-                "WeChatAppEx Helper",
                 "Eudb_en_free",
+                "App Store",
+                "infuse",
+                "qbittorrent",
+                "StardewModdingAPI",
+                "wegame.exe",
+                "iCloudDrive.exe",
+                "115Browser Helper",
                 "WeChat",
-                "StardewModdingAPI"
+                "cloudd",
+                "QQ",
+                "幕布 Helper",
+                "vidhub",
+                "115Browser",
+                "WeChatAppEx Helper",
+                "Music",
+                "fdm.exe"
             ]
         }
     ]
