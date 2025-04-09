@@ -4,16 +4,16 @@
         {
             "domain_suffix": [
                 "audiences.me",
-                "rousi.zip",
-                "m-team.cc",
-                "1panel.live",
-                "springsunday.net",
-                "pttime.org",
-                "ptcafe.club",
-                "sjtu.edu.cn",
-                "hdhome.org",
                 "btshcool.club",
-                "cinefiles.info"
+                "cinefiles.info",
+                "pttime.org",
+                "springsunday.net",
+                "sjtu.edu.cn",
+                "rousi.zip",
+                "1panel.live",
+                "hdhome.org",
+                "ptcafe.club",
+                "m-team.cc"
             ]
         }
     ]
