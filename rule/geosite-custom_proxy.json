@@ -8,15 +8,15 @@
         },
         {
             "domain_suffix": [
-                "v2ex.com",
-                "truenasscale.com",
-                "metacubex.one",
                 "wikipedia.org",
-                "githubusercontent.com",
+                "wireguard.com",
+                "zh-wireguard.com",
                 "qichiyu.com",
                 "pixhost.to",
-                "zh-wireguard.com",
-                "wireguard.com"
+                "githubusercontent.com",
+                "v2ex.com",
+                "truenasscale.com",
+                "metacubex.one"
             ]
         }
     ]
