@@ -3,17 +3,17 @@
     "rules": [
         {
             "domain_suffix": [
-                "audiences.me",
-                "1panel.live",
-                "ptcafe.club",
+                "m-team.cc",
                 "sjtu.edu.cn",
+                "pttime.org",
+                "audiences.me",
+                "btshcool.club",
+                "cinefiles.info",
                 "hdhome.org",
                 "springsunday.net",
-                "pttime.org",
-                "btshcool.club",
+                "ptcafe.club",
                 "rousi.zip",
-                "cinefiles.info",
-                "m-team.cc"
+                "1panel.live"
             ]
         }
     ]
