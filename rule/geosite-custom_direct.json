@@ -4,16 +4,16 @@
         {
             "domain_suffix": [
                 "m-team.cc",
-                "sjtu.edu.cn",
-                "pttime.org",
-                "audiences.me",
-                "btshcool.club",
-                "cinefiles.info",
-                "hdhome.org",
-                "springsunday.net",
                 "ptcafe.club",
+                "springsunday.net",
+                "btshcool.club",
                 "rousi.zip",
-                "1panel.live"
+                "sjtu.edu.cn",
+                "1panel.live",
+                "cinefiles.info",
+                "audiences.me",
+                "pttime.org",
+                "hdhome.org"
             ]
         }
     ]
