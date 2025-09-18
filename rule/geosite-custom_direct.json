@@ -3,18 +3,18 @@
     "rules": [
         {
             "domain_suffix": [
-                "hdhome.org",
-                "sjtu.edu.cn",
-                "springsunday.net",
                 "ptcafe.club",
-                "btshcool.club",
-                "cinefiles.info",
-                "pttime.org",
-                "ipip.net",
                 "m-team.cc",
                 "rousi.zip",
                 "1panel.live",
-                "audiences.me"
+                "btshcool.club",
+                "audiences.me",
+                "sjtu.edu.cn",
+                "ipip.net",
+                "pttime.org",
+                "springsunday.net",
+                "hdhome.org",
+                "cinefiles.info"
             ]
         }
     ]
