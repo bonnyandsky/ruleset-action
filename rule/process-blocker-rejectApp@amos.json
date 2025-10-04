@@ -1,37 +1,4 @@
 {
     "version": 1,
-    "rules": [
-        {
-            "process_name": [
-                "Apple Juice",
-                "Mac Mouse Fix",
-                "Snipaste.exe",
-                "FlowVision",
-                "BetterDisplay",
-                "MATLABWebUl (Renderer)",
-                "Find Any File",
-                "TextSniper",
-                "CodeRunner",
-                "Command X",
-                "MATLAB",
-                "DevToys Networking",
-                "BLEUnlock",
-                "Stats",
-                "Swish",
-                "KeKa",
-                "Clop",
-                "Pixelmator Pro",
-                "Snipaste",
-                "MATLABWebUI (GPU)",
-                "DevToys",
-                "Scroll Reverser",
-                "Little Snitch Agent",
-                "Shifty",
-                "Ice",
-                "ProcessSpy",
-                "Squirrel",
-                "MathWorksService"
-            ]
-        }
-    ]
+    "rules": []
 }

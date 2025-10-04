@@ -1,39 +1,4 @@
 {
     "version": 1,
-    "rules": [
-        {
-            "process_name": [
-                "iCloudDrive.exe",
-                "vidhub",
-                "ThunderVIP",
-                "115chrome.exe",
-                "Thunder",
-                "App Store",
-                "Eudb_en_free",
-                "qbittorrent.exe",
-                "QQ",
-                "TencentMeeting",
-                "WeChat",
-                "幕布 Helper",
-                "fdm",
-                "hydra-python-rpc.exe",
-                "qbittorrent",
-                "115Browser Helper",
-                "fdm.exe",
-                "WeChatAppEx Helper",
-                "115Browser",
-                "cloudd",
-                "wegame.exe",
-                "infuse",
-                "Transmission",
-                "frpc",
-                "Music",
-                "BaiduNetdisk_mac",
-                "APTV",
-                "aria2c.exe",
-                "BitComet",
-                "ToDesk_Service"
-            ]
-        }
-    ]
+    "rules": []
 }
