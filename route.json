@@ -56,14 +56,6 @@
       },
       {
         "rule_set":[
-          "adguard-blocker@full"
-        ],
-        "action":"reject",
-        "method":"default",
-        "no_drop":false
-      },
-      {
-        "rule_set":[
           "adguard-blocker@privacy"
         ],
         "action":"reject",
@@ -222,13 +214,6 @@
         "type":"remote",
         "format":"binary",
         "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/geosite-category-nsfw.srs",
-        "download_detour":"VPN"
-      },
-      {
-        "tag":"adguard-blocker@full",
-        "type":"remote",
-        "format":"binary",
-        "url":"https://raw.githubusercontent.com/vstar37/sing-box-ruleset/main/rule/adguard-blocker@full.srs",
         "download_detour":"VPN"
       },
       {
