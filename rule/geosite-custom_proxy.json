@@ -9,14 +9,14 @@
         {
             "domain_suffix": [
                 "v2ex.com",
-                "pixhost.to",
-                "wireguard.com",
-                "zh-wireguard.com",
                 "metacubex.one",
-                "githubusercontent.com",
-                "wikipedia.org",
                 "truenasscale.com",
-                "qichiyu.com"
+                "wikipedia.org",
+                "githubusercontent.com",
+                "zh-wireguard.com",
+                "pixhost.to",
+                "qichiyu.com",
+                "wireguard.com"
             ]
         }
     ]
