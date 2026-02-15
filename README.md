@@ -1,3 +1,5 @@
+# 修改mihomo-rules/rules/*.yaml文件，不要修改这个项目里面的规则
+
 # sing-box-ruleset self-host manager  
 **个人使用，请勿推广**
 
