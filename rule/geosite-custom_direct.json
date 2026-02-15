@@ -1,4 +1,25 @@
 {
     "version": 1,
-    "rules": []
+    "rules": [
+        {
+            "domain_suffix": [
+                "totheglory.im",
+                "pterclub.net",
+                "btshcool.club",
+                "m-team.cc",
+                "ptcafe.club",
+                "springsunday.net",
+                "ipip.net",
+                "1panel.live",
+                "rousi.pro",
+                "hhanclub.net",
+                "audiences.me",
+                "hdhome.org",
+                "ourbits.club",
+                "cinefiles.info",
+                "sjtu.edu.cn",
+                "pttime.org"
+            ]
+        }
+    ]
 }
