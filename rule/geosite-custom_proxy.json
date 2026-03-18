@@ -9,15 +9,15 @@
         {
             "domain_suffix": [
                 "pixhost.to",
-                "qichiyu.com",
                 "v2ex.com",
+                "mikrotik.com",
                 "wireguard.com",
-                "metacubex.one",
-                "wikipedia.org",
-                "zh-wireguard.com",
                 "truenasscale.com",
+                "zh-wireguard.com",
+                "metacubex.one",
                 "githubusercontent.com",
-                "mikrotik.com"
+                "qichiyu.com",
+                "wikipedia.org"
             ]
         }
     ]
