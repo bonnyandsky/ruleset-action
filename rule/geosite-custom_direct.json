@@ -3,22 +3,22 @@
     "rules": [
         {
             "domain_suffix": [
-                "rousi.pro",
-                "hhanclub.net",
-                "m-team.cc",
                 "ourbits.club",
-                "ptcafe.club",
                 "audiences.me",
-                "hdhome.org",
-                "totheglory.im",
+                "rousi.pro",
                 "pterclub.net",
+                "ptcafe.club",
+                "hdhome.org",
+                "hhanclub.net",
                 "pttime.org",
-                "cinefiles.info",
-                "btshcool.club",
-                "sjtu.edu.cn",
-                "springsunday.net",
+                "totheglory.im",
                 "ipip.net",
-                "1panel.live"
+                "cinefiles.info",
+                "sjtu.edu.cn",
+                "1panel.live",
+                "btshcool.club",
+                "springsunday.net",
+                "m-team.cc"
             ]
         }
     ]
