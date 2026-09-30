@@ -8,19 +8,19 @@
         },
         {
             "domain_suffix": [
+                "github.com",
+                "proxmox.com",
+                "mikrotik.com",
+                "metacubex.one",
                 "wireguard.com",
                 "githubusercontent.com",
-                "docker.com",
-                "metacubex.one",
-                "qichiyu.com",
-                "wikipedia.org",
-                "github.com",
-                "mikrotik.com",
-                "proxmox.com",
-                "truenasscale.com",
                 "zh-wireguard.com",
+                "pixhost.to",
                 "v2ex.com",
-                "pixhost.to"
+                "wikipedia.org",
+                "truenasscale.com",
+                "docker.com",
+                "qichiyu.com"
             ]
         }
     ]
